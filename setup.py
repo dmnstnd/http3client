@@ -4,5 +4,5 @@ setup(
     name="http3_client",
     version="1.0.0",
     install_requires=["requests"],
-    packages=setuptools.find_packages(),
+    packages=["http3_client"],
 )

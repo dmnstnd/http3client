@@ -3,7 +3,7 @@
 This module supports http3!
 ## Install
 ```
-pip3 install https://github.com/dmnstnd/http3client/releases/download/1.0.0/http3_client-1.0.0.whl
+pip3 install https://github.com/dmnstnd/http3client/releases/download/1.0.0/http3_client-1.0.0-py3-none-any.whl
 ```
 ## How to use?
 ```python3
